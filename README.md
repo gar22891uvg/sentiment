@@ -1,2 +1,2 @@
-# sentiment
+# SentimentAnalysis
 Sentiment Analysis
