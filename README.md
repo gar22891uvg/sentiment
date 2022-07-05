@@ -13,6 +13,8 @@ INSTRUCCIONES:
 2. Debe cargarse el archivo .csv con nombre puerto_escondido_hotels.csv a su directorio raiz de jupiter. El archivo .csv se adjunto en el directorio de github.
 3. Favor seguir los comentarios y las conclusiones en el documento con nombre Tarea 3_Grupo 7_Final.ipynb
 
+Información adicional:
+
 Variaciones de hiperparámetros realizadas:
 
 Se utilizarón dos algoritmos de clasificación y se realizarón cambios de hiperparámetros únicamente en la función CountVectorizer.
